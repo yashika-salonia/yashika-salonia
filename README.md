@@ -5,6 +5,9 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yashikasalonia/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashikasalonia20@gmail.com) 
 
+### 👀 Profile Visitors
+![Profile views](https://komarev.com/ghpvc/?username=yashika-salonia&label=👁️‍🗨️%20Profile%20views&style=flat-square&color=ff69b4)
+
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejBiajJ4Yzc1MjlnZ3c3YWg0ZTJsMzdnbzc3anF0NDBjZHF6amFwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gi84IkFRzwube/giphy.gif" alt="Coding Banner" width="500"/>
 
 
@@ -14,12 +17,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=yashika-salonia&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=yashika-salonia&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashika-salonia&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
----
-### 👀 Profile Visitors
-![Profile views](https://komarev.com/ghpvc/?username=yashika-salonia&label=👁️‍🗨️%20Profile%20views&style=flat-square&color=ff69b4)
-
-
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
