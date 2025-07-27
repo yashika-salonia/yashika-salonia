@@ -16,6 +16,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashika-salonia&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=yashika-salonia&icon=5&color=5)](https://visitcount.itsvg.in)
+### 👀 Profile Visitors
+![Profile views](https://komarev.com/ghpvc/?username=yashika-salonia&label=👁️‍🗨️%20Profile%20views&style=flat-square&color=ff69b4)
+
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
