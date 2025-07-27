@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Yashika<br><br>🔭 Currently diving into Python APIs and sharpening my skills in Data Structures & Algorithms<br>👯 Open to collaborating on exciting Web Development projects<br>🤝 Seeking guidance on integrating APIs using Python — always eager to learn from the best!<br>🌱 On a journey to master Python – one line of code at a time<br>💬 Got questions about Figma or React? Hit me up – I love turning ideas into intuitive designs<br>⚡ Fun Fact: I often tweak and remix ChatGPT's code just to see what wild things I can make it do 😄
+👋 Hi there! I'm Yashika Salonia<br><br>🔭 Currently diving into Python APIs and sharpening my skills in Data Structures & Algorithms<br>👯 Open to collaborating on exciting Web Development projects<br>🤝 Seeking guidance on integrating APIs using Python — always eager to learn from the best!<br>🌱 On a journey to master Python – one line of code at a time<br>💬 Got questions about Figma or React? Hit me up – I love turning ideas into intuitive designs<br>⚡ Fun Fact: I often tweak and remix ChatGPT's code just to see what wild things I can make it do 😄
 
 
 ## 🌐 Socials:
