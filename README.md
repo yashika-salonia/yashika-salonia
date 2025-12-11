@@ -1,20 +1,69 @@
-# 💫 About Me
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejBiajJ4Yzc1MjlnZ3c3YWg0ZTJsMzdnbzc3anF0NDBjZHF6amFwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gi84IkFRzwube/giphy.gif" alt="Coding Banner" width="500"/>
-👋 Hi! I'm Yashika Salonia<br><br>
-🔭 Currently diving into Python APIs and sharpening my skills in DSA<br>👯 Open to collaborate on exciting Web Development projects<br>🤝 Seeking guidance on integrating APIs using Python<br>💬 Got questions about Figma or React? Hit me up – I love turning ideas into intuitive designs<br>⚡ Fun Fact: I often tweak and remix code just to see what wild things I can make it do 😄
+# Yashika Salonia 
+
+Full-Stack Developer | UI/UX Designer | Python Backend Specialist
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yashikasalonia/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashikasalonia20@gmail.com)
+
+## About Me
+I'm a full-stack developer with expertise in building scalable web applications and designing intuitive user interfaces. My work spans frontend architecture with React, backend development with Python frameworks, and creating seamless end-to-end solutions.
+
+**Current Focus:**
+- Building production-ready REST APIs with FastAPI and Django
+- Optimizing data structures and algorithms for performance-critical applications
+- Architecting responsive, accessible interfaces with modern frontend technologies
+
+I'm passionate about writing clean, maintainable code and collaborating on projects that solve real-world problems.
+
+## Technical Expertise
+
+### Languages & Core Technologies
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+
+### Frontend Development
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
+
+### Backend & APIs
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+
+### Data Science & Analysis
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yashikasalonia/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashikasalonia20@gmail.com) 
+## GitHub Statistics
 
-### 👀 Profile Visitors
-![Profile views](https://komarev.com/ghpvc/?username=yashika-salonia&label=👁️‍🗨️%20Profile%20views&style=flat-square&color=ff69b4)
+<div align="center">
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yashika-salonia&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=yashika-salonia&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashika-salonia&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![Profile views](https://komarev.com/ghpvc/?username=yashika-salonia&label=Profile%20Views&color=0e75b6&style=flat)
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashika-salonia&theme=github_dark)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashika-salonia&theme=github_dark" width="400"/> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yashika-salonia&theme=github_dark&utcOffset=8" width="400"/>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yashika-salonia&theme=github_dark" width="400"/> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashika-salonia&theme=github_dark" width="400"/>
+
+</div>
+
+## Let's Collaborate
+
+I'm always interested in working on challenging projects, contributing to open source, and connecting with fellow developers. Feel free to reach out if you'd like to discuss technology, potential collaborations, or just exchange ideas.
+
+📧 **Email:** yashikasalonia20@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/yashikasalonia](https://linkedin.com/in/yashikasalonia/)
