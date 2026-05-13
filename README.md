@@ -1,67 +1,168 @@
-# Yashika Salonia 
-
-Full-Stack Developer | UI/UX Designer
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yashikasalonia/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashikasalonia20@gmail.com)
-
-## About Me
-I'm a full-stack developer with expertise in building scalable web applications and designing intuitive user interfaces. My work spans frontend architecture with React, backend development with Python frameworks, and creating seamless end-to-end solutions.
-
-**Current Focus:**
-- Building production-ready REST APIs with FastAPI and Django
-- Optimizing data structures and algorithms for performance-critical applications
-- Architecting responsive, accessible interfaces with modern frontend technologies
-
-I'm passionate about writing clean, maintainable code and collaborating on projects that solve real-world problems.
-
-## Technical Expertise
-
-### Languages & Core Technologies
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-
-### Frontend Development
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
-
-### Backend & APIs
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
-
-### Data Science & Analysis
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
-
-
-## GitHub Statistics
+<!-- HEADER SECTION -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Hi%20👋,%20I'm%20Yashika%20Salonia&fontSize=50&fontAlignY=38&animation=twinkling&fontColor=ffffff" alt="Header Banner" />
+</div>
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=yashika-salonia&label=Profile%20Views&color=0e75b6&style=flat)
-  
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashika-salonia&theme=github_dark)
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=0e75b6&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;UI%2FUX+Designer;Building+Scalable+Web+Applications;AI+Integrated+Product+Developer;Problem+Solver+%26+Creative+Thinker" />
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashika-salonia&theme=github_dark" width="400"/> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yashika-salonia&theme=github_dark&utcOffset=8" width="400"/>
+<br/>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yashika-salonia&theme=github_dark" width="400"/> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashika-salonia&theme=github_dark" width="400"/>
+<a href="https://linkedin.com/in/yashikasalonia/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:yashikasalonia20@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
-## Let's Collaborate
+---
 
-I'm always interested in working on challenging projects, contributing to open source, and connecting with fellow developers. Feel free to reach out if you'd like to discuss technology, potential collaborations, or just exchange ideas.
+# 💫 About Me
 
-📧 **Email:** yashikasalonia20@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/yashikasalonia](https://linkedin.com/in/yashikasalonia/)
+```javascript
+const Yashika = {
+  role: "Full-Stack Developer & UI/UX Designer",
+
+  currentlyBuilding: [
+    "AI Powered Web Applications",
+    "Scalable Backend APIs",
+    "Modern Responsive Interfaces"
+  ],
+
+  currentlyLearning: [
+    "Advanced Backend Engineering",
+    "System Design",
+    "AI Integrations",
+    "Cloud Deployment"
+  ],
+
+  techStack: {
+    frontend: ["React.js", "TailwindCSS", "Vite"],
+    backend: ["Node.js", "Express.js", "FastAPI", "Django", "Flask"],
+    database: ["MongoDB", "MySQL"],
+    languages: ["Python", "JavaScript", "Java"],
+    tools: ["Git", "Postman", "Figma", "Vercel", "Render"]
+  },
+
+  motto: "Build scalable products with clean design and impactful user experiences."
+};
+```
+
+I’m a developer passionate about building modern, scalable, and user-focused digital products.  
+My expertise spans frontend development, backend engineering, UI/UX design, and AI-powered applications.
+
+I enjoy transforming ideas into production-ready solutions with clean architecture, intuitive interfaces, and efficient backend systems.
+
+
+# 🚀 Tech Stack
+
+## 👨‍💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,java" />
+</p>
+
+
+## 🎨 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,vite,html,css" />
+</p>
+
+
+## ⚙️ Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,flask" />
+</p>
+
+## 🗄️ Databases & Deployment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,vercel,render" />
+</p>
+
+
+## 🛠️ Tools & Design
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,git,github,postman,vscode,canva" />
+</p>
+
+
+# 🧠 Core Skills
+
+<div align="center">
+
+| Development | Backend | Design | Problem Solving |
+|-------------|----------|--------|-----------------|
+| React.js | REST APIs | UI/UX Design | DSA |
+| Responsive UI | Authentication | Wireframing | Optimization |
+| Component Architecture | CRUD Systems | Prototyping | Debugging |
+| TailwindCSS | Database Design | User Flows | Clean Code |
+
+</div>
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashika-salonia&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yashika-salonia&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashika-salonia&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=yashika-salonia&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:yashikasalonia20@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/yashikasalonia/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Building scalable digital experiences through design, development, and innovation.
+
+<img src="https://komarev.com/ghpvc/?username=yashika-salonia&label=Profile+Views&color=7C3AED&style=flat"/>
+
+</div>
+<div align="center">
+  <i>"Designing the experience, engineering the performance."</i><br><br>
+  <b>Let's build something amazing together! 🚀</b>
+</div>
